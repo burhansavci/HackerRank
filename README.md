@@ -1,2 +1,2 @@
 # HackerRank
-My https://www.hackerrank.com Solutions
+My [I'm an inline-style link](https://www.google.com)Solutions
