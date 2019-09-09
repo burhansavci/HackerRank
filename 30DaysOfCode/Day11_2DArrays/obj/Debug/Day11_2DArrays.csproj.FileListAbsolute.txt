@@ -1,0 +1,7 @@
+C:\Users\burha\OneDrive\Desktop\HackerRank\30DaysOfCode\Day11_2DArrays\bin\Debug\Day11_2DArrays.exe.config
+C:\Users\burha\OneDrive\Desktop\HackerRank\30DaysOfCode\Day11_2DArrays\bin\Debug\Day11_2DArrays.exe
+C:\Users\burha\OneDrive\Desktop\HackerRank\30DaysOfCode\Day11_2DArrays\bin\Debug\Day11_2DArrays.pdb
+C:\Users\burha\OneDrive\Desktop\HackerRank\30DaysOfCode\Day11_2DArrays\obj\Debug\Day11_2DArrays.csprojAssemblyReference.cache
+C:\Users\burha\OneDrive\Desktop\HackerRank\30DaysOfCode\Day11_2DArrays\obj\Debug\Day11_2DArrays.csproj.CoreCompileInputs.cache
+C:\Users\burha\OneDrive\Desktop\HackerRank\30DaysOfCode\Day11_2DArrays\obj\Debug\Day11_2DArrays.exe
+C:\Users\burha\OneDrive\Desktop\HackerRank\30DaysOfCode\Day11_2DArrays\obj\Debug\Day11_2DArrays.pdb

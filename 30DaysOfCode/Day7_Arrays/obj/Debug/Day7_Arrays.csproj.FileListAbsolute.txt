@@ -1,0 +1,7 @@
+C:\Users\burha\OneDrive\Desktop\HackerRank\30DaysOfCode\Day7_Arrays\bin\Debug\Day7_Arrays.exe.config
+C:\Users\burha\OneDrive\Desktop\HackerRank\30DaysOfCode\Day7_Arrays\bin\Debug\Day7_Arrays.exe
+C:\Users\burha\OneDrive\Desktop\HackerRank\30DaysOfCode\Day7_Arrays\bin\Debug\Day7_Arrays.pdb
+C:\Users\burha\OneDrive\Desktop\HackerRank\30DaysOfCode\Day7_Arrays\obj\Debug\Day7_Arrays.csprojAssemblyReference.cache
+C:\Users\burha\OneDrive\Desktop\HackerRank\30DaysOfCode\Day7_Arrays\obj\Debug\Day7_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\burha\OneDrive\Desktop\HackerRank\30DaysOfCode\Day7_Arrays\obj\Debug\Day7_Arrays.exe
+C:\Users\burha\OneDrive\Desktop\HackerRank\30DaysOfCode\Day7_Arrays\obj\Debug\Day7_Arrays.pdb

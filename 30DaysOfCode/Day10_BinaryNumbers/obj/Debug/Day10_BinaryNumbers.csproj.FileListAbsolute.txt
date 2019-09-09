@@ -1,0 +1,7 @@
+C:\Users\burha\OneDrive\Desktop\HackerRank\30DaysOfCode\Day10_BinaryNumbers\bin\Debug\Day10_BinaryNumbers.exe.config
+C:\Users\burha\OneDrive\Desktop\HackerRank\30DaysOfCode\Day10_BinaryNumbers\bin\Debug\Day10_BinaryNumbers.exe
+C:\Users\burha\OneDrive\Desktop\HackerRank\30DaysOfCode\Day10_BinaryNumbers\bin\Debug\Day10_BinaryNumbers.pdb
+C:\Users\burha\OneDrive\Desktop\HackerRank\30DaysOfCode\Day10_BinaryNumbers\obj\Debug\Day10_BinaryNumbers.csprojAssemblyReference.cache
+C:\Users\burha\OneDrive\Desktop\HackerRank\30DaysOfCode\Day10_BinaryNumbers\obj\Debug\Day10_BinaryNumbers.csproj.CoreCompileInputs.cache
+C:\Users\burha\OneDrive\Desktop\HackerRank\30DaysOfCode\Day10_BinaryNumbers\obj\Debug\Day10_BinaryNumbers.exe
+C:\Users\burha\OneDrive\Desktop\HackerRank\30DaysOfCode\Day10_BinaryNumbers\obj\Debug\Day10_BinaryNumbers.pdb

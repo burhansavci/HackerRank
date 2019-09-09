@@ -1,0 +1,7 @@
+C:\Users\burha\OneDrive\Desktop\HackerRank\30DaysOfCode\Day26_Nested_Logic\bin\Debug\Day26_Nested_Logic.exe.config
+C:\Users\burha\OneDrive\Desktop\HackerRank\30DaysOfCode\Day26_Nested_Logic\bin\Debug\Day26_Nested_Logic.exe
+C:\Users\burha\OneDrive\Desktop\HackerRank\30DaysOfCode\Day26_Nested_Logic\bin\Debug\Day26_Nested_Logic.pdb
+C:\Users\burha\OneDrive\Desktop\HackerRank\30DaysOfCode\Day26_Nested_Logic\obj\Debug\Day26_Nested_Logic.csprojAssemblyReference.cache
+C:\Users\burha\OneDrive\Desktop\HackerRank\30DaysOfCode\Day26_Nested_Logic\obj\Debug\Day26_Nested_Logic.csproj.CoreCompileInputs.cache
+C:\Users\burha\OneDrive\Desktop\HackerRank\30DaysOfCode\Day26_Nested_Logic\obj\Debug\Day26_Nested_Logic.exe
+C:\Users\burha\OneDrive\Desktop\HackerRank\30DaysOfCode\Day26_Nested_Logic\obj\Debug\Day26_Nested_Logic.pdb
