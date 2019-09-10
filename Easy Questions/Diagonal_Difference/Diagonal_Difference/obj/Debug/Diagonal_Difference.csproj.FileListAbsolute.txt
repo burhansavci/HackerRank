@@ -1,0 +1,7 @@
+C:\Users\asr\Desktop\Algoritma Çalışmalar\Diagonal_Difference\Diagonal_Difference\bin\Debug\Diagonal_Difference.exe.config
+C:\Users\asr\Desktop\Algoritma Çalışmalar\Diagonal_Difference\Diagonal_Difference\bin\Debug\Diagonal_Difference.exe
+C:\Users\asr\Desktop\Algoritma Çalışmalar\Diagonal_Difference\Diagonal_Difference\bin\Debug\Diagonal_Difference.pdb
+C:\Users\asr\Desktop\Algoritma Çalışmalar\Diagonal_Difference\Diagonal_Difference\obj\Debug\Diagonal_Difference.csprojAssemblyReference.cache
+C:\Users\asr\Desktop\Algoritma Çalışmalar\Diagonal_Difference\Diagonal_Difference\obj\Debug\Diagonal_Difference.csproj.CoreCompileInputs.cache
+C:\Users\asr\Desktop\Algoritma Çalışmalar\Diagonal_Difference\Diagonal_Difference\obj\Debug\Diagonal_Difference.exe
+C:\Users\asr\Desktop\Algoritma Çalışmalar\Diagonal_Difference\Diagonal_Difference\obj\Debug\Diagonal_Difference.pdb
