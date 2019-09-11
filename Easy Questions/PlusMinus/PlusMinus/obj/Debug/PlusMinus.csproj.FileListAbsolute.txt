@@ -1,0 +1,7 @@
+C:\Users\asr\Desktop\Algoritma Çalışmalar\PlusMinus\PlusMinus\obj\Debug\PlusMinus.csprojAssemblyReference.cache
+C:\Users\asr\Desktop\Algoritma Çalışmalar\PlusMinus\PlusMinus\obj\Debug\PlusMinus.csproj.CoreCompileInputs.cache
+C:\Users\asr\Desktop\Algoritma Çalışmalar\PlusMinus\PlusMinus\bin\Debug\PlusMinus.exe.config
+C:\Users\asr\Desktop\Algoritma Çalışmalar\PlusMinus\PlusMinus\bin\Debug\PlusMinus.exe
+C:\Users\asr\Desktop\Algoritma Çalışmalar\PlusMinus\PlusMinus\bin\Debug\PlusMinus.pdb
+C:\Users\asr\Desktop\Algoritma Çalışmalar\PlusMinus\PlusMinus\obj\Debug\PlusMinus.exe
+C:\Users\asr\Desktop\Algoritma Çalışmalar\PlusMinus\PlusMinus\obj\Debug\PlusMinus.pdb
