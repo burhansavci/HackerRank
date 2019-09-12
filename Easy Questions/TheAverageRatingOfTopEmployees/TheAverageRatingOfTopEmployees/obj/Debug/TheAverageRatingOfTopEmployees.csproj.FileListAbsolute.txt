@@ -1,0 +1,7 @@
+C:\Users\burha\OneDrive\Desktop\HackerRank\TheAverageRatingOfTopEmployees\TheAverageRatingOfTopEmployees\bin\Debug\TheAverageRatingOfTopEmployees.exe.config
+C:\Users\burha\OneDrive\Desktop\HackerRank\TheAverageRatingOfTopEmployees\TheAverageRatingOfTopEmployees\bin\Debug\TheAverageRatingOfTopEmployees.exe
+C:\Users\burha\OneDrive\Desktop\HackerRank\TheAverageRatingOfTopEmployees\TheAverageRatingOfTopEmployees\bin\Debug\TheAverageRatingOfTopEmployees.pdb
+C:\Users\burha\OneDrive\Desktop\HackerRank\TheAverageRatingOfTopEmployees\TheAverageRatingOfTopEmployees\obj\Debug\TheAverageRatingOfTopEmployees.csprojAssemblyReference.cache
+C:\Users\burha\OneDrive\Desktop\HackerRank\TheAverageRatingOfTopEmployees\TheAverageRatingOfTopEmployees\obj\Debug\TheAverageRatingOfTopEmployees.csproj.CoreCompileInputs.cache
+C:\Users\burha\OneDrive\Desktop\HackerRank\TheAverageRatingOfTopEmployees\TheAverageRatingOfTopEmployees\obj\Debug\TheAverageRatingOfTopEmployees.exe
+C:\Users\burha\OneDrive\Desktop\HackerRank\TheAverageRatingOfTopEmployees\TheAverageRatingOfTopEmployees\obj\Debug\TheAverageRatingOfTopEmployees.pdb

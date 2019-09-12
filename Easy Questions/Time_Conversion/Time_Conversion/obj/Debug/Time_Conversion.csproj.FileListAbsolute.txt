@@ -1,0 +1,7 @@
+C:\Users\asr\Desktop\Algoritma Çalışmalar\Time_Conversion\Time_Conversion\bin\Debug\Time_Conversion.exe.config
+C:\Users\asr\Desktop\Algoritma Çalışmalar\Time_Conversion\Time_Conversion\bin\Debug\Time_Conversion.exe
+C:\Users\asr\Desktop\Algoritma Çalışmalar\Time_Conversion\Time_Conversion\bin\Debug\Time_Conversion.pdb
+C:\Users\asr\Desktop\Algoritma Çalışmalar\Time_Conversion\Time_Conversion\obj\Debug\Time_Conversion.csprojAssemblyReference.cache
+C:\Users\asr\Desktop\Algoritma Çalışmalar\Time_Conversion\Time_Conversion\obj\Debug\Time_Conversion.csproj.CoreCompileInputs.cache
+C:\Users\asr\Desktop\Algoritma Çalışmalar\Time_Conversion\Time_Conversion\obj\Debug\Time_Conversion.exe
+C:\Users\asr\Desktop\Algoritma Çalışmalar\Time_Conversion\Time_Conversion\obj\Debug\Time_Conversion.pdb
