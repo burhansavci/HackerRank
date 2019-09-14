@@ -1,0 +1,7 @@
+C:\Users\burha\OneDrive\Desktop\HackerRank\Kangaroo\Kangaroo\bin\Debug\Kangaroo.exe.config
+C:\Users\burha\OneDrive\Desktop\HackerRank\Kangaroo\Kangaroo\bin\Debug\Kangaroo.exe
+C:\Users\burha\OneDrive\Desktop\HackerRank\Kangaroo\Kangaroo\bin\Debug\Kangaroo.pdb
+C:\Users\burha\OneDrive\Desktop\HackerRank\Kangaroo\Kangaroo\obj\Debug\Kangaroo.csprojAssemblyReference.cache
+C:\Users\burha\OneDrive\Desktop\HackerRank\Kangaroo\Kangaroo\obj\Debug\Kangaroo.csproj.CoreCompileInputs.cache
+C:\Users\burha\OneDrive\Desktop\HackerRank\Kangaroo\Kangaroo\obj\Debug\Kangaroo.exe
+C:\Users\burha\OneDrive\Desktop\HackerRank\Kangaroo\Kangaroo\obj\Debug\Kangaroo.pdb
