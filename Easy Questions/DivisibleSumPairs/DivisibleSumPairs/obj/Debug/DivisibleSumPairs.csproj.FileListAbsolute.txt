@@ -1,0 +1,7 @@
+C:\Users\burha\OneDrive\Desktop\HackerRank\DivisibleSumPairs\DivisibleSumPairs\bin\Debug\DivisibleSumPairs.exe.config
+C:\Users\burha\OneDrive\Desktop\HackerRank\DivisibleSumPairs\DivisibleSumPairs\bin\Debug\DivisibleSumPairs.exe
+C:\Users\burha\OneDrive\Desktop\HackerRank\DivisibleSumPairs\DivisibleSumPairs\bin\Debug\DivisibleSumPairs.pdb
+C:\Users\burha\OneDrive\Desktop\HackerRank\DivisibleSumPairs\DivisibleSumPairs\obj\Debug\DivisibleSumPairs.csprojAssemblyReference.cache
+C:\Users\burha\OneDrive\Desktop\HackerRank\DivisibleSumPairs\DivisibleSumPairs\obj\Debug\DivisibleSumPairs.csproj.CoreCompileInputs.cache
+C:\Users\burha\OneDrive\Desktop\HackerRank\DivisibleSumPairs\DivisibleSumPairs\obj\Debug\DivisibleSumPairs.exe
+C:\Users\burha\OneDrive\Desktop\HackerRank\DivisibleSumPairs\DivisibleSumPairs\obj\Debug\DivisibleSumPairs.pdb
