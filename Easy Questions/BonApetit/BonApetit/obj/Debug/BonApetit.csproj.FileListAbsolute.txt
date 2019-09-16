@@ -1,0 +1,7 @@
+C:\Users\burha\OneDrive\Desktop\HackerRank\BonApetit\BonApetit\bin\Debug\BonApetit.exe.config
+C:\Users\burha\OneDrive\Desktop\HackerRank\BonApetit\BonApetit\bin\Debug\BonApetit.exe
+C:\Users\burha\OneDrive\Desktop\HackerRank\BonApetit\BonApetit\bin\Debug\BonApetit.pdb
+C:\Users\burha\OneDrive\Desktop\HackerRank\BonApetit\BonApetit\obj\Debug\BonApetit.csprojAssemblyReference.cache
+C:\Users\burha\OneDrive\Desktop\HackerRank\BonApetit\BonApetit\obj\Debug\BonApetit.csproj.CoreCompileInputs.cache
+C:\Users\burha\OneDrive\Desktop\HackerRank\BonApetit\BonApetit\obj\Debug\BonApetit.exe
+C:\Users\burha\OneDrive\Desktop\HackerRank\BonApetit\BonApetit\obj\Debug\BonApetit.pdb
