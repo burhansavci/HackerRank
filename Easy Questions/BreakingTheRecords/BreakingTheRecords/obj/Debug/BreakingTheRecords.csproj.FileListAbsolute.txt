@@ -1,0 +1,7 @@
+C:\Users\burha\OneDrive\Desktop\HackerRank\BreakingTheRecords\BreakingTheRecords\bin\Debug\BreakingTheRecords.exe.config
+C:\Users\burha\OneDrive\Desktop\HackerRank\BreakingTheRecords\BreakingTheRecords\bin\Debug\BreakingTheRecords.exe
+C:\Users\burha\OneDrive\Desktop\HackerRank\BreakingTheRecords\BreakingTheRecords\bin\Debug\BreakingTheRecords.pdb
+C:\Users\burha\OneDrive\Desktop\HackerRank\BreakingTheRecords\BreakingTheRecords\obj\Debug\BreakingTheRecords.csprojAssemblyReference.cache
+C:\Users\burha\OneDrive\Desktop\HackerRank\BreakingTheRecords\BreakingTheRecords\obj\Debug\BreakingTheRecords.csproj.CoreCompileInputs.cache
+C:\Users\burha\OneDrive\Desktop\HackerRank\BreakingTheRecords\BreakingTheRecords\obj\Debug\BreakingTheRecords.exe
+C:\Users\burha\OneDrive\Desktop\HackerRank\BreakingTheRecords\BreakingTheRecords\obj\Debug\BreakingTheRecords.pdb
