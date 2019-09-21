@@ -1,0 +1,11 @@
+C:\Users\burha\OneDrive\Desktop\HackerRank\UtopianTree\UtopianTree\bin\Debug\netcoreapp2.1\UtopianTree.deps.json
+C:\Users\burha\OneDrive\Desktop\HackerRank\UtopianTree\UtopianTree\bin\Debug\netcoreapp2.1\UtopianTree.runtimeconfig.json
+C:\Users\burha\OneDrive\Desktop\HackerRank\UtopianTree\UtopianTree\bin\Debug\netcoreapp2.1\UtopianTree.runtimeconfig.dev.json
+C:\Users\burha\OneDrive\Desktop\HackerRank\UtopianTree\UtopianTree\bin\Debug\netcoreapp2.1\UtopianTree.dll
+C:\Users\burha\OneDrive\Desktop\HackerRank\UtopianTree\UtopianTree\bin\Debug\netcoreapp2.1\UtopianTree.pdb
+C:\Users\burha\OneDrive\Desktop\HackerRank\UtopianTree\UtopianTree\obj\Debug\netcoreapp2.1\UtopianTree.csprojAssemblyReference.cache
+C:\Users\burha\OneDrive\Desktop\HackerRank\UtopianTree\UtopianTree\obj\Debug\netcoreapp2.1\UtopianTree.csproj.CoreCompileInputs.cache
+C:\Users\burha\OneDrive\Desktop\HackerRank\UtopianTree\UtopianTree\obj\Debug\netcoreapp2.1\UtopianTree.AssemblyInfoInputs.cache
+C:\Users\burha\OneDrive\Desktop\HackerRank\UtopianTree\UtopianTree\obj\Debug\netcoreapp2.1\UtopianTree.AssemblyInfo.cs
+C:\Users\burha\OneDrive\Desktop\HackerRank\UtopianTree\UtopianTree\obj\Debug\netcoreapp2.1\UtopianTree.dll
+C:\Users\burha\OneDrive\Desktop\HackerRank\UtopianTree\UtopianTree\obj\Debug\netcoreapp2.1\UtopianTree.pdb
