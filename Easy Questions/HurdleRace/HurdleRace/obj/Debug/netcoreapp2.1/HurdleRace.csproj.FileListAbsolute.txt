@@ -1,0 +1,11 @@
+C:\Users\burha\OneDrive\Desktop\HackerRank\HurdleRace\HurdleRace\bin\Debug\netcoreapp2.1\HurdleRace.deps.json
+C:\Users\burha\OneDrive\Desktop\HackerRank\HurdleRace\HurdleRace\bin\Debug\netcoreapp2.1\HurdleRace.runtimeconfig.json
+C:\Users\burha\OneDrive\Desktop\HackerRank\HurdleRace\HurdleRace\bin\Debug\netcoreapp2.1\HurdleRace.runtimeconfig.dev.json
+C:\Users\burha\OneDrive\Desktop\HackerRank\HurdleRace\HurdleRace\bin\Debug\netcoreapp2.1\HurdleRace.dll
+C:\Users\burha\OneDrive\Desktop\HackerRank\HurdleRace\HurdleRace\bin\Debug\netcoreapp2.1\HurdleRace.pdb
+C:\Users\burha\OneDrive\Desktop\HackerRank\HurdleRace\HurdleRace\obj\Debug\netcoreapp2.1\HurdleRace.csprojAssemblyReference.cache
+C:\Users\burha\OneDrive\Desktop\HackerRank\HurdleRace\HurdleRace\obj\Debug\netcoreapp2.1\HurdleRace.csproj.CoreCompileInputs.cache
+C:\Users\burha\OneDrive\Desktop\HackerRank\HurdleRace\HurdleRace\obj\Debug\netcoreapp2.1\HurdleRace.AssemblyInfoInputs.cache
+C:\Users\burha\OneDrive\Desktop\HackerRank\HurdleRace\HurdleRace\obj\Debug\netcoreapp2.1\HurdleRace.AssemblyInfo.cs
+C:\Users\burha\OneDrive\Desktop\HackerRank\HurdleRace\HurdleRace\obj\Debug\netcoreapp2.1\HurdleRace.dll
+C:\Users\burha\OneDrive\Desktop\HackerRank\HurdleRace\HurdleRace\obj\Debug\netcoreapp2.1\HurdleRace.pdb
