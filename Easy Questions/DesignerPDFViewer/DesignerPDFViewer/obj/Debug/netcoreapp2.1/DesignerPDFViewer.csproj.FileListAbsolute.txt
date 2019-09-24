@@ -1,0 +1,11 @@
+C:\Users\burha\OneDrive\Desktop\HackerRank\DesignerPDFViewer\DesignerPDFViewer\bin\Debug\netcoreapp2.1\DesignerPDFViewer.deps.json
+C:\Users\burha\OneDrive\Desktop\HackerRank\DesignerPDFViewer\DesignerPDFViewer\bin\Debug\netcoreapp2.1\DesignerPDFViewer.runtimeconfig.json
+C:\Users\burha\OneDrive\Desktop\HackerRank\DesignerPDFViewer\DesignerPDFViewer\bin\Debug\netcoreapp2.1\DesignerPDFViewer.runtimeconfig.dev.json
+C:\Users\burha\OneDrive\Desktop\HackerRank\DesignerPDFViewer\DesignerPDFViewer\bin\Debug\netcoreapp2.1\DesignerPDFViewer.dll
+C:\Users\burha\OneDrive\Desktop\HackerRank\DesignerPDFViewer\DesignerPDFViewer\bin\Debug\netcoreapp2.1\DesignerPDFViewer.pdb
+C:\Users\burha\OneDrive\Desktop\HackerRank\DesignerPDFViewer\DesignerPDFViewer\obj\Debug\netcoreapp2.1\DesignerPDFViewer.csprojAssemblyReference.cache
+C:\Users\burha\OneDrive\Desktop\HackerRank\DesignerPDFViewer\DesignerPDFViewer\obj\Debug\netcoreapp2.1\DesignerPDFViewer.csproj.CoreCompileInputs.cache
+C:\Users\burha\OneDrive\Desktop\HackerRank\DesignerPDFViewer\DesignerPDFViewer\obj\Debug\netcoreapp2.1\DesignerPDFViewer.AssemblyInfoInputs.cache
+C:\Users\burha\OneDrive\Desktop\HackerRank\DesignerPDFViewer\DesignerPDFViewer\obj\Debug\netcoreapp2.1\DesignerPDFViewer.AssemblyInfo.cs
+C:\Users\burha\OneDrive\Desktop\HackerRank\DesignerPDFViewer\DesignerPDFViewer\obj\Debug\netcoreapp2.1\DesignerPDFViewer.dll
+C:\Users\burha\OneDrive\Desktop\HackerRank\DesignerPDFViewer\DesignerPDFViewer\obj\Debug\netcoreapp2.1\DesignerPDFViewer.pdb
