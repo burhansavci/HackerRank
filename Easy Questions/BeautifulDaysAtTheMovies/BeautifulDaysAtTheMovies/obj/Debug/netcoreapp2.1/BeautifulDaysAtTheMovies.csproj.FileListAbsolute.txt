@@ -1,0 +1,11 @@
+C:\Users\burha\OneDrive\Desktop\HackerRank\BeautifulDaysAtTheMovies\BeautifulDaysAtTheMovies\bin\Debug\netcoreapp2.1\BeautifulDaysAtTheMovies.deps.json
+C:\Users\burha\OneDrive\Desktop\HackerRank\BeautifulDaysAtTheMovies\BeautifulDaysAtTheMovies\bin\Debug\netcoreapp2.1\BeautifulDaysAtTheMovies.runtimeconfig.json
+C:\Users\burha\OneDrive\Desktop\HackerRank\BeautifulDaysAtTheMovies\BeautifulDaysAtTheMovies\bin\Debug\netcoreapp2.1\BeautifulDaysAtTheMovies.runtimeconfig.dev.json
+C:\Users\burha\OneDrive\Desktop\HackerRank\BeautifulDaysAtTheMovies\BeautifulDaysAtTheMovies\bin\Debug\netcoreapp2.1\BeautifulDaysAtTheMovies.dll
+C:\Users\burha\OneDrive\Desktop\HackerRank\BeautifulDaysAtTheMovies\BeautifulDaysAtTheMovies\bin\Debug\netcoreapp2.1\BeautifulDaysAtTheMovies.pdb
+C:\Users\burha\OneDrive\Desktop\HackerRank\BeautifulDaysAtTheMovies\BeautifulDaysAtTheMovies\obj\Debug\netcoreapp2.1\BeautifulDaysAtTheMovies.csprojAssemblyReference.cache
+C:\Users\burha\OneDrive\Desktop\HackerRank\BeautifulDaysAtTheMovies\BeautifulDaysAtTheMovies\obj\Debug\netcoreapp2.1\BeautifulDaysAtTheMovies.csproj.CoreCompileInputs.cache
+C:\Users\burha\OneDrive\Desktop\HackerRank\BeautifulDaysAtTheMovies\BeautifulDaysAtTheMovies\obj\Debug\netcoreapp2.1\BeautifulDaysAtTheMovies.AssemblyInfoInputs.cache
+C:\Users\burha\OneDrive\Desktop\HackerRank\BeautifulDaysAtTheMovies\BeautifulDaysAtTheMovies\obj\Debug\netcoreapp2.1\BeautifulDaysAtTheMovies.AssemblyInfo.cs
+C:\Users\burha\OneDrive\Desktop\HackerRank\BeautifulDaysAtTheMovies\BeautifulDaysAtTheMovies\obj\Debug\netcoreapp2.1\BeautifulDaysAtTheMovies.dll
+C:\Users\burha\OneDrive\Desktop\HackerRank\BeautifulDaysAtTheMovies\BeautifulDaysAtTheMovies\obj\Debug\netcoreapp2.1\BeautifulDaysAtTheMovies.pdb
