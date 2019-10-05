@@ -1,0 +1,11 @@
+C:\Users\burha\OneDrive\Desktop\HackerRank\SequenceEquatiton\SequenceEquatiton\bin\Debug\netcoreapp2.1\SequenceEquatiton.deps.json
+C:\Users\burha\OneDrive\Desktop\HackerRank\SequenceEquatiton\SequenceEquatiton\bin\Debug\netcoreapp2.1\SequenceEquatiton.runtimeconfig.json
+C:\Users\burha\OneDrive\Desktop\HackerRank\SequenceEquatiton\SequenceEquatiton\bin\Debug\netcoreapp2.1\SequenceEquatiton.runtimeconfig.dev.json
+C:\Users\burha\OneDrive\Desktop\HackerRank\SequenceEquatiton\SequenceEquatiton\bin\Debug\netcoreapp2.1\SequenceEquatiton.dll
+C:\Users\burha\OneDrive\Desktop\HackerRank\SequenceEquatiton\SequenceEquatiton\bin\Debug\netcoreapp2.1\SequenceEquatiton.pdb
+C:\Users\burha\OneDrive\Desktop\HackerRank\SequenceEquatiton\SequenceEquatiton\obj\Debug\netcoreapp2.1\SequenceEquatiton.csprojAssemblyReference.cache
+C:\Users\burha\OneDrive\Desktop\HackerRank\SequenceEquatiton\SequenceEquatiton\obj\Debug\netcoreapp2.1\SequenceEquatiton.csproj.CoreCompileInputs.cache
+C:\Users\burha\OneDrive\Desktop\HackerRank\SequenceEquatiton\SequenceEquatiton\obj\Debug\netcoreapp2.1\SequenceEquatiton.AssemblyInfoInputs.cache
+C:\Users\burha\OneDrive\Desktop\HackerRank\SequenceEquatiton\SequenceEquatiton\obj\Debug\netcoreapp2.1\SequenceEquatiton.AssemblyInfo.cs
+C:\Users\burha\OneDrive\Desktop\HackerRank\SequenceEquatiton\SequenceEquatiton\obj\Debug\netcoreapp2.1\SequenceEquatiton.dll
+C:\Users\burha\OneDrive\Desktop\HackerRank\SequenceEquatiton\SequenceEquatiton\obj\Debug\netcoreapp2.1\SequenceEquatiton.pdb
