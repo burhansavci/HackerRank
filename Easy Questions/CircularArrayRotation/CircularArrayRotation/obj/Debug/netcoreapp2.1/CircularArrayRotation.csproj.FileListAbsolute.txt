@@ -1,0 +1,11 @@
+C:\Users\burha\OneDrive\Desktop\HackerRank\CircularArrayRotation\CircularArrayRotation\bin\Debug\netcoreapp2.1\CircularArrayRotation.deps.json
+C:\Users\burha\OneDrive\Desktop\HackerRank\CircularArrayRotation\CircularArrayRotation\bin\Debug\netcoreapp2.1\CircularArrayRotation.runtimeconfig.json
+C:\Users\burha\OneDrive\Desktop\HackerRank\CircularArrayRotation\CircularArrayRotation\bin\Debug\netcoreapp2.1\CircularArrayRotation.runtimeconfig.dev.json
+C:\Users\burha\OneDrive\Desktop\HackerRank\CircularArrayRotation\CircularArrayRotation\bin\Debug\netcoreapp2.1\CircularArrayRotation.dll
+C:\Users\burha\OneDrive\Desktop\HackerRank\CircularArrayRotation\CircularArrayRotation\bin\Debug\netcoreapp2.1\CircularArrayRotation.pdb
+C:\Users\burha\OneDrive\Desktop\HackerRank\CircularArrayRotation\CircularArrayRotation\obj\Debug\netcoreapp2.1\CircularArrayRotation.csprojAssemblyReference.cache
+C:\Users\burha\OneDrive\Desktop\HackerRank\CircularArrayRotation\CircularArrayRotation\obj\Debug\netcoreapp2.1\CircularArrayRotation.csproj.CoreCompileInputs.cache
+C:\Users\burha\OneDrive\Desktop\HackerRank\CircularArrayRotation\CircularArrayRotation\obj\Debug\netcoreapp2.1\CircularArrayRotation.AssemblyInfoInputs.cache
+C:\Users\burha\OneDrive\Desktop\HackerRank\CircularArrayRotation\CircularArrayRotation\obj\Debug\netcoreapp2.1\CircularArrayRotation.AssemblyInfo.cs
+C:\Users\burha\OneDrive\Desktop\HackerRank\CircularArrayRotation\CircularArrayRotation\obj\Debug\netcoreapp2.1\CircularArrayRotation.dll
+C:\Users\burha\OneDrive\Desktop\HackerRank\CircularArrayRotation\CircularArrayRotation\obj\Debug\netcoreapp2.1\CircularArrayRotation.pdb
