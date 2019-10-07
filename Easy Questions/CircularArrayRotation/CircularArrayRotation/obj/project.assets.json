@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\burha\\OneDrive\\Desktop\\HackerRank\\CircularArrayRotation\\CircularArrayRotation\\CircularArrayRotation.csproj",
+      "projectUniqueName": "C:\\Users\\burha\\OneDrive\\Desktop\\HackerRank\\HackerRank\\Easy Questions\\CircularArrayRotation\\CircularArrayRotation\\CircularArrayRotation.csproj",
       "projectName": "CircularArrayRotation",
-      "projectPath": "C:\\Users\\burha\\OneDrive\\Desktop\\HackerRank\\CircularArrayRotation\\CircularArrayRotation\\CircularArrayRotation.csproj",
+      "projectPath": "C:\\Users\\burha\\OneDrive\\Desktop\\HackerRank\\HackerRank\\Easy Questions\\CircularArrayRotation\\CircularArrayRotation\\CircularArrayRotation.csproj",
       "packagesPath": "C:\\Users\\burha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\burha\\OneDrive\\Desktop\\HackerRank\\CircularArrayRotation\\CircularArrayRotation\\obj\\",
+      "outputPath": "C:\\Users\\burha\\OneDrive\\Desktop\\HackerRank\\HackerRank\\Easy Questions\\CircularArrayRotation\\CircularArrayRotation\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
