@@ -1,0 +1,11 @@
+C:\Users\burha\OneDrive\Desktop\HackerRank\EqualizeTheArray\EqualizeTheArray\bin\Debug\netcoreapp3.0\EqualizeTheArray.exe
+C:\Users\burha\OneDrive\Desktop\HackerRank\EqualizeTheArray\EqualizeTheArray\bin\Debug\netcoreapp3.0\EqualizeTheArray.deps.json
+C:\Users\burha\OneDrive\Desktop\HackerRank\EqualizeTheArray\EqualizeTheArray\bin\Debug\netcoreapp3.0\EqualizeTheArray.runtimeconfig.json
+C:\Users\burha\OneDrive\Desktop\HackerRank\EqualizeTheArray\EqualizeTheArray\bin\Debug\netcoreapp3.0\EqualizeTheArray.runtimeconfig.dev.json
+C:\Users\burha\OneDrive\Desktop\HackerRank\EqualizeTheArray\EqualizeTheArray\bin\Debug\netcoreapp3.0\EqualizeTheArray.dll
+C:\Users\burha\OneDrive\Desktop\HackerRank\EqualizeTheArray\EqualizeTheArray\bin\Debug\netcoreapp3.0\EqualizeTheArray.pdb
+C:\Users\burha\OneDrive\Desktop\HackerRank\EqualizeTheArray\EqualizeTheArray\obj\Debug\netcoreapp3.0\EqualizeTheArray.csprojAssemblyReference.cache
+C:\Users\burha\OneDrive\Desktop\HackerRank\EqualizeTheArray\EqualizeTheArray\obj\Debug\netcoreapp3.0\EqualizeTheArray.AssemblyInfoInputs.cache
+C:\Users\burha\OneDrive\Desktop\HackerRank\EqualizeTheArray\EqualizeTheArray\obj\Debug\netcoreapp3.0\EqualizeTheArray.AssemblyInfo.cs
+C:\Users\burha\OneDrive\Desktop\HackerRank\EqualizeTheArray\EqualizeTheArray\obj\Debug\netcoreapp3.0\EqualizeTheArray.dll
+C:\Users\burha\OneDrive\Desktop\HackerRank\EqualizeTheArray\EqualizeTheArray\obj\Debug\netcoreapp3.0\EqualizeTheArray.pdb
