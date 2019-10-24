@@ -1,0 +1,11 @@
+C:\Users\burha\OneDrive\Desktop\HackerRank\Encryption\Encryption\bin\Debug\netcoreapp3.0\Encryption.exe
+C:\Users\burha\OneDrive\Desktop\HackerRank\Encryption\Encryption\bin\Debug\netcoreapp3.0\Encryption.deps.json
+C:\Users\burha\OneDrive\Desktop\HackerRank\Encryption\Encryption\bin\Debug\netcoreapp3.0\Encryption.runtimeconfig.json
+C:\Users\burha\OneDrive\Desktop\HackerRank\Encryption\Encryption\bin\Debug\netcoreapp3.0\Encryption.runtimeconfig.dev.json
+C:\Users\burha\OneDrive\Desktop\HackerRank\Encryption\Encryption\bin\Debug\netcoreapp3.0\Encryption.dll
+C:\Users\burha\OneDrive\Desktop\HackerRank\Encryption\Encryption\bin\Debug\netcoreapp3.0\Encryption.pdb
+C:\Users\burha\OneDrive\Desktop\HackerRank\Encryption\Encryption\obj\Debug\netcoreapp3.0\Encryption.csprojAssemblyReference.cache
+C:\Users\burha\OneDrive\Desktop\HackerRank\Encryption\Encryption\obj\Debug\netcoreapp3.0\Encryption.AssemblyInfoInputs.cache
+C:\Users\burha\OneDrive\Desktop\HackerRank\Encryption\Encryption\obj\Debug\netcoreapp3.0\Encryption.AssemblyInfo.cs
+C:\Users\burha\OneDrive\Desktop\HackerRank\Encryption\Encryption\obj\Debug\netcoreapp3.0\Encryption.dll
+C:\Users\burha\OneDrive\Desktop\HackerRank\Encryption\Encryption\obj\Debug\netcoreapp3.0\Encryption.pdb
