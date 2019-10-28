@@ -1,0 +1,11 @@
+C:\Users\burha\OneDrive\Desktop\HackerRank\MinimumDistances\MinimumDistances\bin\Debug\netcoreapp3.0\MinimumDistances.exe
+C:\Users\burha\OneDrive\Desktop\HackerRank\MinimumDistances\MinimumDistances\bin\Debug\netcoreapp3.0\MinimumDistances.deps.json
+C:\Users\burha\OneDrive\Desktop\HackerRank\MinimumDistances\MinimumDistances\bin\Debug\netcoreapp3.0\MinimumDistances.runtimeconfig.json
+C:\Users\burha\OneDrive\Desktop\HackerRank\MinimumDistances\MinimumDistances\bin\Debug\netcoreapp3.0\MinimumDistances.runtimeconfig.dev.json
+C:\Users\burha\OneDrive\Desktop\HackerRank\MinimumDistances\MinimumDistances\bin\Debug\netcoreapp3.0\MinimumDistances.dll
+C:\Users\burha\OneDrive\Desktop\HackerRank\MinimumDistances\MinimumDistances\bin\Debug\netcoreapp3.0\MinimumDistances.pdb
+C:\Users\burha\OneDrive\Desktop\HackerRank\MinimumDistances\MinimumDistances\obj\Debug\netcoreapp3.0\MinimumDistances.csprojAssemblyReference.cache
+C:\Users\burha\OneDrive\Desktop\HackerRank\MinimumDistances\MinimumDistances\obj\Debug\netcoreapp3.0\MinimumDistances.AssemblyInfoInputs.cache
+C:\Users\burha\OneDrive\Desktop\HackerRank\MinimumDistances\MinimumDistances\obj\Debug\netcoreapp3.0\MinimumDistances.AssemblyInfo.cs
+C:\Users\burha\OneDrive\Desktop\HackerRank\MinimumDistances\MinimumDistances\obj\Debug\netcoreapp3.0\MinimumDistances.dll
+C:\Users\burha\OneDrive\Desktop\HackerRank\MinimumDistances\MinimumDistances\obj\Debug\netcoreapp3.0\MinimumDistances.pdb
