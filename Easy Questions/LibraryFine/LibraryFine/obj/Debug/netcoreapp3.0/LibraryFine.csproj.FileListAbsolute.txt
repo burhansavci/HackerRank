@@ -1,0 +1,11 @@
+C:\Users\burha\OneDrive\Desktop\HackerRank\LibraryFine\LibraryFine\bin\Debug\netcoreapp3.0\LibraryFine.exe
+C:\Users\burha\OneDrive\Desktop\HackerRank\LibraryFine\LibraryFine\bin\Debug\netcoreapp3.0\LibraryFine.deps.json
+C:\Users\burha\OneDrive\Desktop\HackerRank\LibraryFine\LibraryFine\bin\Debug\netcoreapp3.0\LibraryFine.runtimeconfig.json
+C:\Users\burha\OneDrive\Desktop\HackerRank\LibraryFine\LibraryFine\bin\Debug\netcoreapp3.0\LibraryFine.runtimeconfig.dev.json
+C:\Users\burha\OneDrive\Desktop\HackerRank\LibraryFine\LibraryFine\bin\Debug\netcoreapp3.0\LibraryFine.dll
+C:\Users\burha\OneDrive\Desktop\HackerRank\LibraryFine\LibraryFine\bin\Debug\netcoreapp3.0\LibraryFine.pdb
+C:\Users\burha\OneDrive\Desktop\HackerRank\LibraryFine\LibraryFine\obj\Debug\netcoreapp3.0\LibraryFine.csprojAssemblyReference.cache
+C:\Users\burha\OneDrive\Desktop\HackerRank\LibraryFine\LibraryFine\obj\Debug\netcoreapp3.0\LibraryFine.AssemblyInfoInputs.cache
+C:\Users\burha\OneDrive\Desktop\HackerRank\LibraryFine\LibraryFine\obj\Debug\netcoreapp3.0\LibraryFine.AssemblyInfo.cs
+C:\Users\burha\OneDrive\Desktop\HackerRank\LibraryFine\LibraryFine\obj\Debug\netcoreapp3.0\LibraryFine.dll
+C:\Users\burha\OneDrive\Desktop\HackerRank\LibraryFine\LibraryFine\obj\Debug\netcoreapp3.0\LibraryFine.pdb
