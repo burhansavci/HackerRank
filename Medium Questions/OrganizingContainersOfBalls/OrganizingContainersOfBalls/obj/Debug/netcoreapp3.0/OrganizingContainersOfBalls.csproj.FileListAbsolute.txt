@@ -1,0 +1,11 @@
+C:\Users\burha\OneDrive\Desktop\HackerRank\OrganizingContainersOfBalls\OrganizingContainersOfBalls\bin\Debug\netcoreapp3.0\OrganizingContainersOfBalls.exe
+C:\Users\burha\OneDrive\Desktop\HackerRank\OrganizingContainersOfBalls\OrganizingContainersOfBalls\bin\Debug\netcoreapp3.0\OrganizingContainersOfBalls.deps.json
+C:\Users\burha\OneDrive\Desktop\HackerRank\OrganizingContainersOfBalls\OrganizingContainersOfBalls\bin\Debug\netcoreapp3.0\OrganizingContainersOfBalls.runtimeconfig.json
+C:\Users\burha\OneDrive\Desktop\HackerRank\OrganizingContainersOfBalls\OrganizingContainersOfBalls\bin\Debug\netcoreapp3.0\OrganizingContainersOfBalls.runtimeconfig.dev.json
+C:\Users\burha\OneDrive\Desktop\HackerRank\OrganizingContainersOfBalls\OrganizingContainersOfBalls\bin\Debug\netcoreapp3.0\OrganizingContainersOfBalls.dll
+C:\Users\burha\OneDrive\Desktop\HackerRank\OrganizingContainersOfBalls\OrganizingContainersOfBalls\bin\Debug\netcoreapp3.0\OrganizingContainersOfBalls.pdb
+C:\Users\burha\OneDrive\Desktop\HackerRank\OrganizingContainersOfBalls\OrganizingContainersOfBalls\obj\Debug\netcoreapp3.0\OrganizingContainersOfBalls.csprojAssemblyReference.cache
+C:\Users\burha\OneDrive\Desktop\HackerRank\OrganizingContainersOfBalls\OrganizingContainersOfBalls\obj\Debug\netcoreapp3.0\OrganizingContainersOfBalls.AssemblyInfoInputs.cache
+C:\Users\burha\OneDrive\Desktop\HackerRank\OrganizingContainersOfBalls\OrganizingContainersOfBalls\obj\Debug\netcoreapp3.0\OrganizingContainersOfBalls.AssemblyInfo.cs
+C:\Users\burha\OneDrive\Desktop\HackerRank\OrganizingContainersOfBalls\OrganizingContainersOfBalls\obj\Debug\netcoreapp3.0\OrganizingContainersOfBalls.dll
+C:\Users\burha\OneDrive\Desktop\HackerRank\OrganizingContainersOfBalls\OrganizingContainersOfBalls\obj\Debug\netcoreapp3.0\OrganizingContainersOfBalls.pdb
