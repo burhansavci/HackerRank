@@ -1,0 +1,11 @@
+C:\Users\burha\OneDrive\Desktop\HackerRank\BiggerIsGreater\BiggerIsGreater\bin\Debug\netcoreapp3.0\BiggerIsGreater.exe
+C:\Users\burha\OneDrive\Desktop\HackerRank\BiggerIsGreater\BiggerIsGreater\bin\Debug\netcoreapp3.0\BiggerIsGreater.deps.json
+C:\Users\burha\OneDrive\Desktop\HackerRank\BiggerIsGreater\BiggerIsGreater\bin\Debug\netcoreapp3.0\BiggerIsGreater.runtimeconfig.json
+C:\Users\burha\OneDrive\Desktop\HackerRank\BiggerIsGreater\BiggerIsGreater\bin\Debug\netcoreapp3.0\BiggerIsGreater.runtimeconfig.dev.json
+C:\Users\burha\OneDrive\Desktop\HackerRank\BiggerIsGreater\BiggerIsGreater\bin\Debug\netcoreapp3.0\BiggerIsGreater.dll
+C:\Users\burha\OneDrive\Desktop\HackerRank\BiggerIsGreater\BiggerIsGreater\bin\Debug\netcoreapp3.0\BiggerIsGreater.pdb
+C:\Users\burha\OneDrive\Desktop\HackerRank\BiggerIsGreater\BiggerIsGreater\obj\Debug\netcoreapp3.0\BiggerIsGreater.csprojAssemblyReference.cache
+C:\Users\burha\OneDrive\Desktop\HackerRank\BiggerIsGreater\BiggerIsGreater\obj\Debug\netcoreapp3.0\BiggerIsGreater.AssemblyInfoInputs.cache
+C:\Users\burha\OneDrive\Desktop\HackerRank\BiggerIsGreater\BiggerIsGreater\obj\Debug\netcoreapp3.0\BiggerIsGreater.AssemblyInfo.cs
+C:\Users\burha\OneDrive\Desktop\HackerRank\BiggerIsGreater\BiggerIsGreater\obj\Debug\netcoreapp3.0\BiggerIsGreater.dll
+C:\Users\burha\OneDrive\Desktop\HackerRank\BiggerIsGreater\BiggerIsGreater\obj\Debug\netcoreapp3.0\BiggerIsGreater.pdb
