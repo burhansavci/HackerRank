@@ -1,0 +1,11 @@
+C:\Users\burha\OneDrive\Desktop\HackerRank\TheTimeInWords\TheTimeInWords\bin\Debug\netcoreapp3.0\TheTimeInWords.exe
+C:\Users\burha\OneDrive\Desktop\HackerRank\TheTimeInWords\TheTimeInWords\bin\Debug\netcoreapp3.0\TheTimeInWords.deps.json
+C:\Users\burha\OneDrive\Desktop\HackerRank\TheTimeInWords\TheTimeInWords\bin\Debug\netcoreapp3.0\TheTimeInWords.runtimeconfig.json
+C:\Users\burha\OneDrive\Desktop\HackerRank\TheTimeInWords\TheTimeInWords\bin\Debug\netcoreapp3.0\TheTimeInWords.runtimeconfig.dev.json
+C:\Users\burha\OneDrive\Desktop\HackerRank\TheTimeInWords\TheTimeInWords\bin\Debug\netcoreapp3.0\TheTimeInWords.dll
+C:\Users\burha\OneDrive\Desktop\HackerRank\TheTimeInWords\TheTimeInWords\bin\Debug\netcoreapp3.0\TheTimeInWords.pdb
+C:\Users\burha\OneDrive\Desktop\HackerRank\TheTimeInWords\TheTimeInWords\obj\Debug\netcoreapp3.0\TheTimeInWords.csprojAssemblyReference.cache
+C:\Users\burha\OneDrive\Desktop\HackerRank\TheTimeInWords\TheTimeInWords\obj\Debug\netcoreapp3.0\TheTimeInWords.AssemblyInfoInputs.cache
+C:\Users\burha\OneDrive\Desktop\HackerRank\TheTimeInWords\TheTimeInWords\obj\Debug\netcoreapp3.0\TheTimeInWords.AssemblyInfo.cs
+C:\Users\burha\OneDrive\Desktop\HackerRank\TheTimeInWords\TheTimeInWords\obj\Debug\netcoreapp3.0\TheTimeInWords.dll
+C:\Users\burha\OneDrive\Desktop\HackerRank\TheTimeInWords\TheTimeInWords\obj\Debug\netcoreapp3.0\TheTimeInWords.pdb
