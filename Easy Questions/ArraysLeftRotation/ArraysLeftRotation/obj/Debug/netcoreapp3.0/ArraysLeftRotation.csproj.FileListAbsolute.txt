@@ -1,0 +1,11 @@
+C:\Users\burha\OneDrive\Desktop\HackerRank\ArraysLeftRotation\ArraysLeftRotation\bin\Debug\netcoreapp3.0\ArraysLeftRotation.exe
+C:\Users\burha\OneDrive\Desktop\HackerRank\ArraysLeftRotation\ArraysLeftRotation\bin\Debug\netcoreapp3.0\ArraysLeftRotation.deps.json
+C:\Users\burha\OneDrive\Desktop\HackerRank\ArraysLeftRotation\ArraysLeftRotation\bin\Debug\netcoreapp3.0\ArraysLeftRotation.runtimeconfig.json
+C:\Users\burha\OneDrive\Desktop\HackerRank\ArraysLeftRotation\ArraysLeftRotation\bin\Debug\netcoreapp3.0\ArraysLeftRotation.runtimeconfig.dev.json
+C:\Users\burha\OneDrive\Desktop\HackerRank\ArraysLeftRotation\ArraysLeftRotation\bin\Debug\netcoreapp3.0\ArraysLeftRotation.dll
+C:\Users\burha\OneDrive\Desktop\HackerRank\ArraysLeftRotation\ArraysLeftRotation\bin\Debug\netcoreapp3.0\ArraysLeftRotation.pdb
+C:\Users\burha\OneDrive\Desktop\HackerRank\ArraysLeftRotation\ArraysLeftRotation\obj\Debug\netcoreapp3.0\ArraysLeftRotation.csprojAssemblyReference.cache
+C:\Users\burha\OneDrive\Desktop\HackerRank\ArraysLeftRotation\ArraysLeftRotation\obj\Debug\netcoreapp3.0\ArraysLeftRotation.AssemblyInfoInputs.cache
+C:\Users\burha\OneDrive\Desktop\HackerRank\ArraysLeftRotation\ArraysLeftRotation\obj\Debug\netcoreapp3.0\ArraysLeftRotation.AssemblyInfo.cs
+C:\Users\burha\OneDrive\Desktop\HackerRank\ArraysLeftRotation\ArraysLeftRotation\obj\Debug\netcoreapp3.0\ArraysLeftRotation.dll
+C:\Users\burha\OneDrive\Desktop\HackerRank\ArraysLeftRotation\ArraysLeftRotation\obj\Debug\netcoreapp3.0\ArraysLeftRotation.pdb
