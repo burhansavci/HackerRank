@@ -1,0 +1,11 @@
+C:\Users\burha\OneDrive\Desktop\HackerRank\NewYearChaos\NewYearChaos\bin\Debug\netcoreapp3.0\NewYearChaos.exe
+C:\Users\burha\OneDrive\Desktop\HackerRank\NewYearChaos\NewYearChaos\bin\Debug\netcoreapp3.0\NewYearChaos.deps.json
+C:\Users\burha\OneDrive\Desktop\HackerRank\NewYearChaos\NewYearChaos\bin\Debug\netcoreapp3.0\NewYearChaos.runtimeconfig.json
+C:\Users\burha\OneDrive\Desktop\HackerRank\NewYearChaos\NewYearChaos\bin\Debug\netcoreapp3.0\NewYearChaos.runtimeconfig.dev.json
+C:\Users\burha\OneDrive\Desktop\HackerRank\NewYearChaos\NewYearChaos\bin\Debug\netcoreapp3.0\NewYearChaos.dll
+C:\Users\burha\OneDrive\Desktop\HackerRank\NewYearChaos\NewYearChaos\bin\Debug\netcoreapp3.0\NewYearChaos.pdb
+C:\Users\burha\OneDrive\Desktop\HackerRank\NewYearChaos\NewYearChaos\obj\Debug\netcoreapp3.0\NewYearChaos.csprojAssemblyReference.cache
+C:\Users\burha\OneDrive\Desktop\HackerRank\NewYearChaos\NewYearChaos\obj\Debug\netcoreapp3.0\NewYearChaos.AssemblyInfoInputs.cache
+C:\Users\burha\OneDrive\Desktop\HackerRank\NewYearChaos\NewYearChaos\obj\Debug\netcoreapp3.0\NewYearChaos.AssemblyInfo.cs
+C:\Users\burha\OneDrive\Desktop\HackerRank\NewYearChaos\NewYearChaos\obj\Debug\netcoreapp3.0\NewYearChaos.dll
+C:\Users\burha\OneDrive\Desktop\HackerRank\NewYearChaos\NewYearChaos\obj\Debug\netcoreapp3.0\NewYearChaos.pdb
