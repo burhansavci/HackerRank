@@ -1,0 +1,11 @@
+C:\Users\burha\OneDrive\Desktop\HackerRank\BeautifulTriplets\BeautifulTriplets\bin\Debug\netcoreapp3.0\BeautifulTriplets.exe
+C:\Users\burha\OneDrive\Desktop\HackerRank\BeautifulTriplets\BeautifulTriplets\bin\Debug\netcoreapp3.0\BeautifulTriplets.deps.json
+C:\Users\burha\OneDrive\Desktop\HackerRank\BeautifulTriplets\BeautifulTriplets\bin\Debug\netcoreapp3.0\BeautifulTriplets.runtimeconfig.json
+C:\Users\burha\OneDrive\Desktop\HackerRank\BeautifulTriplets\BeautifulTriplets\bin\Debug\netcoreapp3.0\BeautifulTriplets.runtimeconfig.dev.json
+C:\Users\burha\OneDrive\Desktop\HackerRank\BeautifulTriplets\BeautifulTriplets\bin\Debug\netcoreapp3.0\BeautifulTriplets.dll
+C:\Users\burha\OneDrive\Desktop\HackerRank\BeautifulTriplets\BeautifulTriplets\bin\Debug\netcoreapp3.0\BeautifulTriplets.pdb
+C:\Users\burha\OneDrive\Desktop\HackerRank\BeautifulTriplets\BeautifulTriplets\obj\Debug\netcoreapp3.0\BeautifulTriplets.csprojAssemblyReference.cache
+C:\Users\burha\OneDrive\Desktop\HackerRank\BeautifulTriplets\BeautifulTriplets\obj\Debug\netcoreapp3.0\BeautifulTriplets.AssemblyInfoInputs.cache
+C:\Users\burha\OneDrive\Desktop\HackerRank\BeautifulTriplets\BeautifulTriplets\obj\Debug\netcoreapp3.0\BeautifulTriplets.AssemblyInfo.cs
+C:\Users\burha\OneDrive\Desktop\HackerRank\BeautifulTriplets\BeautifulTriplets\obj\Debug\netcoreapp3.0\BeautifulTriplets.dll
+C:\Users\burha\OneDrive\Desktop\HackerRank\BeautifulTriplets\BeautifulTriplets\obj\Debug\netcoreapp3.0\BeautifulTriplets.pdb
