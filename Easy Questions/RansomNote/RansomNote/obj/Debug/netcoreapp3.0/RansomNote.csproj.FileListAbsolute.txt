@@ -1,0 +1,11 @@
+C:\Users\burha\OneDrive\Desktop\HackerRank\RansomNote\RansomNote\bin\Debug\netcoreapp3.0\RansomNote.exe
+C:\Users\burha\OneDrive\Desktop\HackerRank\RansomNote\RansomNote\bin\Debug\netcoreapp3.0\RansomNote.deps.json
+C:\Users\burha\OneDrive\Desktop\HackerRank\RansomNote\RansomNote\bin\Debug\netcoreapp3.0\RansomNote.runtimeconfig.json
+C:\Users\burha\OneDrive\Desktop\HackerRank\RansomNote\RansomNote\bin\Debug\netcoreapp3.0\RansomNote.runtimeconfig.dev.json
+C:\Users\burha\OneDrive\Desktop\HackerRank\RansomNote\RansomNote\bin\Debug\netcoreapp3.0\RansomNote.dll
+C:\Users\burha\OneDrive\Desktop\HackerRank\RansomNote\RansomNote\bin\Debug\netcoreapp3.0\RansomNote.pdb
+C:\Users\burha\OneDrive\Desktop\HackerRank\RansomNote\RansomNote\obj\Debug\netcoreapp3.0\RansomNote.csprojAssemblyReference.cache
+C:\Users\burha\OneDrive\Desktop\HackerRank\RansomNote\RansomNote\obj\Debug\netcoreapp3.0\RansomNote.AssemblyInfoInputs.cache
+C:\Users\burha\OneDrive\Desktop\HackerRank\RansomNote\RansomNote\obj\Debug\netcoreapp3.0\RansomNote.AssemblyInfo.cs
+C:\Users\burha\OneDrive\Desktop\HackerRank\RansomNote\RansomNote\obj\Debug\netcoreapp3.0\RansomNote.dll
+C:\Users\burha\OneDrive\Desktop\HackerRank\RansomNote\RansomNote\obj\Debug\netcoreapp3.0\RansomNote.pdb
