@@ -1,0 +1,11 @@
+C:\Users\burha\OneDrive\Desktop\HackerRank\MakingAnagrams\MakingAnagrams\bin\Debug\netcoreapp3.0\MakingAnagrams.exe
+C:\Users\burha\OneDrive\Desktop\HackerRank\MakingAnagrams\MakingAnagrams\bin\Debug\netcoreapp3.0\MakingAnagrams.deps.json
+C:\Users\burha\OneDrive\Desktop\HackerRank\MakingAnagrams\MakingAnagrams\bin\Debug\netcoreapp3.0\MakingAnagrams.runtimeconfig.json
+C:\Users\burha\OneDrive\Desktop\HackerRank\MakingAnagrams\MakingAnagrams\bin\Debug\netcoreapp3.0\MakingAnagrams.runtimeconfig.dev.json
+C:\Users\burha\OneDrive\Desktop\HackerRank\MakingAnagrams\MakingAnagrams\bin\Debug\netcoreapp3.0\MakingAnagrams.dll
+C:\Users\burha\OneDrive\Desktop\HackerRank\MakingAnagrams\MakingAnagrams\bin\Debug\netcoreapp3.0\MakingAnagrams.pdb
+C:\Users\burha\OneDrive\Desktop\HackerRank\MakingAnagrams\MakingAnagrams\obj\Debug\netcoreapp3.0\MakingAnagrams.csprojAssemblyReference.cache
+C:\Users\burha\OneDrive\Desktop\HackerRank\MakingAnagrams\MakingAnagrams\obj\Debug\netcoreapp3.0\MakingAnagrams.AssemblyInfoInputs.cache
+C:\Users\burha\OneDrive\Desktop\HackerRank\MakingAnagrams\MakingAnagrams\obj\Debug\netcoreapp3.0\MakingAnagrams.AssemblyInfo.cs
+C:\Users\burha\OneDrive\Desktop\HackerRank\MakingAnagrams\MakingAnagrams\obj\Debug\netcoreapp3.0\MakingAnagrams.dll
+C:\Users\burha\OneDrive\Desktop\HackerRank\MakingAnagrams\MakingAnagrams\obj\Debug\netcoreapp3.0\MakingAnagrams.pdb
