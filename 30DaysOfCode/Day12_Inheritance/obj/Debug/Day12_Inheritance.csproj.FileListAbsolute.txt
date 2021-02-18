@@ -5,3 +5,10 @@ C:\Users\burha\OneDrive\Desktop\HackerRank\30DaysOfCode\Day12_Inheritance\obj\De
 C:\Users\burha\OneDrive\Desktop\HackerRank\30DaysOfCode\Day12_Inheritance\obj\Debug\Day12_Inheritance.csproj.CoreCompileInputs.cache
 C:\Users\burha\OneDrive\Desktop\HackerRank\30DaysOfCode\Day12_Inheritance\obj\Debug\Day12_Inheritance.exe
 C:\Users\burha\OneDrive\Desktop\HackerRank\30DaysOfCode\Day12_Inheritance\obj\Debug\Day12_Inheritance.pdb
+C:\Users\burha\Desktop\Burhan\HackerRank\30DaysOfCode\Day12_Inheritance\bin\Debug\Day12_Inheritance.exe.config
+C:\Users\burha\Desktop\Burhan\HackerRank\30DaysOfCode\Day12_Inheritance\bin\Debug\Day12_Inheritance.exe
+C:\Users\burha\Desktop\Burhan\HackerRank\30DaysOfCode\Day12_Inheritance\bin\Debug\Day12_Inheritance.pdb
+C:\Users\burha\Desktop\Burhan\HackerRank\30DaysOfCode\Day12_Inheritance\obj\Debug\Day12_Inheritance.csprojAssemblyReference.cache
+C:\Users\burha\Desktop\Burhan\HackerRank\30DaysOfCode\Day12_Inheritance\obj\Debug\Day12_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\burha\Desktop\Burhan\HackerRank\30DaysOfCode\Day12_Inheritance\obj\Debug\Day12_Inheritance.exe
+C:\Users\burha\Desktop\Burhan\HackerRank\30DaysOfCode\Day12_Inheritance\obj\Debug\Day12_Inheritance.pdb

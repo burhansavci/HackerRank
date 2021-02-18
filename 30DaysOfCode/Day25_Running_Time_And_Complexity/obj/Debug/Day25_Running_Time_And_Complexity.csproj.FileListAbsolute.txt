@@ -5,3 +5,10 @@ C:\Users\burha\OneDrive\Desktop\HackerRank\30DaysOfCode\Day25_Running_Time_And_C
 C:\Users\burha\OneDrive\Desktop\HackerRank\30DaysOfCode\Day25_Running_Time_And_Complexity\obj\Debug\Day25_Running_Time_And_Complexity.csproj.CoreCompileInputs.cache
 C:\Users\burha\OneDrive\Desktop\HackerRank\30DaysOfCode\Day25_Running_Time_And_Complexity\obj\Debug\Day25_Running_Time_And_Complexity.exe
 C:\Users\burha\OneDrive\Desktop\HackerRank\30DaysOfCode\Day25_Running_Time_And_Complexity\obj\Debug\Day25_Running_Time_And_Complexity.pdb
+C:\Users\burha\Desktop\Burhan\HackerRank\30DaysOfCode\Day25_Running_Time_And_Complexity\bin\Debug\Day25_Running_Time_And_Complexity.exe.config
+C:\Users\burha\Desktop\Burhan\HackerRank\30DaysOfCode\Day25_Running_Time_And_Complexity\bin\Debug\Day25_Running_Time_And_Complexity.exe
+C:\Users\burha\Desktop\Burhan\HackerRank\30DaysOfCode\Day25_Running_Time_And_Complexity\bin\Debug\Day25_Running_Time_And_Complexity.pdb
+C:\Users\burha\Desktop\Burhan\HackerRank\30DaysOfCode\Day25_Running_Time_And_Complexity\obj\Debug\Day25_Running_Time_And_Complexity.csprojAssemblyReference.cache
+C:\Users\burha\Desktop\Burhan\HackerRank\30DaysOfCode\Day25_Running_Time_And_Complexity\obj\Debug\Day25_Running_Time_And_Complexity.csproj.CoreCompileInputs.cache
+C:\Users\burha\Desktop\Burhan\HackerRank\30DaysOfCode\Day25_Running_Time_And_Complexity\obj\Debug\Day25_Running_Time_And_Complexity.exe
+C:\Users\burha\Desktop\Burhan\HackerRank\30DaysOfCode\Day25_Running_Time_And_Complexity\obj\Debug\Day25_Running_Time_And_Complexity.pdb

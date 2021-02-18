@@ -1,7 +1,0 @@
-C:\Users\burha\OneDrive\Desktop\HackerRank\SockMerchant\SockMerchant\bin\Debug\SockMerchant.exe.config
-C:\Users\burha\OneDrive\Desktop\HackerRank\SockMerchant\SockMerchant\bin\Debug\SockMerchant.exe
-C:\Users\burha\OneDrive\Desktop\HackerRank\SockMerchant\SockMerchant\bin\Debug\SockMerchant.pdb
-C:\Users\burha\OneDrive\Desktop\HackerRank\SockMerchant\SockMerchant\obj\Debug\SockMerchant.csprojAssemblyReference.cache
-C:\Users\burha\OneDrive\Desktop\HackerRank\SockMerchant\SockMerchant\obj\Debug\SockMerchant.csproj.CoreCompileInputs.cache
-C:\Users\burha\OneDrive\Desktop\HackerRank\SockMerchant\SockMerchant\obj\Debug\SockMerchant.exe
-C:\Users\burha\OneDrive\Desktop\HackerRank\SockMerchant\SockMerchant\obj\Debug\SockMerchant.pdb

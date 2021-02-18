@@ -1,7 +1,0 @@
-C:\Users\asr\Desktop\Algoritma Çalışmalar\Birthday_Cakes\Birthday_Cakes\bin\Debug\Birthday_Cakes.exe.config
-C:\Users\asr\Desktop\Algoritma Çalışmalar\Birthday_Cakes\Birthday_Cakes\bin\Debug\Birthday_Cakes.exe
-C:\Users\asr\Desktop\Algoritma Çalışmalar\Birthday_Cakes\Birthday_Cakes\bin\Debug\Birthday_Cakes.pdb
-C:\Users\asr\Desktop\Algoritma Çalışmalar\Birthday_Cakes\Birthday_Cakes\obj\Debug\Birthday_Cakes.csprojAssemblyReference.cache
-C:\Users\asr\Desktop\Algoritma Çalışmalar\Birthday_Cakes\Birthday_Cakes\obj\Debug\Birthday_Cakes.csproj.CoreCompileInputs.cache
-C:\Users\asr\Desktop\Algoritma Çalışmalar\Birthday_Cakes\Birthday_Cakes\obj\Debug\Birthday_Cakes.exe
-C:\Users\asr\Desktop\Algoritma Çalışmalar\Birthday_Cakes\Birthday_Cakes\obj\Debug\Birthday_Cakes.pdb

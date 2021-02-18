@@ -1,7 +1,0 @@
-C:\Users\burha\OneDrive\Desktop\HackerRank\DayOfTheProgrammer\DayOfTheProgrammer\bin\Debug\DayOfTheProgrammer.exe.config
-C:\Users\burha\OneDrive\Desktop\HackerRank\DayOfTheProgrammer\DayOfTheProgrammer\bin\Debug\DayOfTheProgrammer.exe
-C:\Users\burha\OneDrive\Desktop\HackerRank\DayOfTheProgrammer\DayOfTheProgrammer\bin\Debug\DayOfTheProgrammer.pdb
-C:\Users\burha\OneDrive\Desktop\HackerRank\DayOfTheProgrammer\DayOfTheProgrammer\obj\Debug\DayOfTheProgrammer.csprojAssemblyReference.cache
-C:\Users\burha\OneDrive\Desktop\HackerRank\DayOfTheProgrammer\DayOfTheProgrammer\obj\Debug\DayOfTheProgrammer.csproj.CoreCompileInputs.cache
-C:\Users\burha\OneDrive\Desktop\HackerRank\DayOfTheProgrammer\DayOfTheProgrammer\obj\Debug\DayOfTheProgrammer.exe
-C:\Users\burha\OneDrive\Desktop\HackerRank\DayOfTheProgrammer\DayOfTheProgrammer\obj\Debug\DayOfTheProgrammer.pdb

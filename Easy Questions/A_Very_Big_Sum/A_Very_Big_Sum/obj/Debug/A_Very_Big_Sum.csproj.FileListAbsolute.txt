@@ -1,7 +1,0 @@
-C:\Users\asr\Desktop\Algoritma Çalışmalar\A_Very_Big_Sum\A_Very_Big_Sum\bin\Debug\A_Very_Big_Sum.exe.config
-C:\Users\asr\Desktop\Algoritma Çalışmalar\A_Very_Big_Sum\A_Very_Big_Sum\bin\Debug\A_Very_Big_Sum.exe
-C:\Users\asr\Desktop\Algoritma Çalışmalar\A_Very_Big_Sum\A_Very_Big_Sum\bin\Debug\A_Very_Big_Sum.pdb
-C:\Users\asr\Desktop\Algoritma Çalışmalar\A_Very_Big_Sum\A_Very_Big_Sum\obj\Debug\A_Very_Big_Sum.csprojAssemblyReference.cache
-C:\Users\asr\Desktop\Algoritma Çalışmalar\A_Very_Big_Sum\A_Very_Big_Sum\obj\Debug\A_Very_Big_Sum.csproj.CoreCompileInputs.cache
-C:\Users\asr\Desktop\Algoritma Çalışmalar\A_Very_Big_Sum\A_Very_Big_Sum\obj\Debug\A_Very_Big_Sum.exe
-C:\Users\asr\Desktop\Algoritma Çalışmalar\A_Very_Big_Sum\A_Very_Big_Sum\obj\Debug\A_Very_Big_Sum.pdb

@@ -11,9 +11,10 @@ namespace Day15_LinkedList
        public class Node
         {
             public int data { get; set; }
-            public Node(int data)
-            {
-                this.data = data;
+            public Node next;
+            public Node(int d){
+                data=d;
+                next=null;
             }
         }
         public static Node insert(Node head, int data)

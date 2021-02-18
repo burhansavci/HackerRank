@@ -5,3 +5,10 @@ C:\Users\burha\OneDrive\Desktop\HackerRank\30DaysOfCode\Day13_AbstractClasses\ob
 C:\Users\burha\OneDrive\Desktop\HackerRank\30DaysOfCode\Day13_AbstractClasses\obj\Debug\Day13_AbstractClasses.csproj.CoreCompileInputs.cache
 C:\Users\burha\OneDrive\Desktop\HackerRank\30DaysOfCode\Day13_AbstractClasses\obj\Debug\Day13_AbstractClasses.exe
 C:\Users\burha\OneDrive\Desktop\HackerRank\30DaysOfCode\Day13_AbstractClasses\obj\Debug\Day13_AbstractClasses.pdb
+C:\Users\burha\Desktop\Burhan\HackerRank\30DaysOfCode\Day13_AbstractClasses\bin\Debug\Day13_AbstractClasses.exe.config
+C:\Users\burha\Desktop\Burhan\HackerRank\30DaysOfCode\Day13_AbstractClasses\bin\Debug\Day13_AbstractClasses.exe
+C:\Users\burha\Desktop\Burhan\HackerRank\30DaysOfCode\Day13_AbstractClasses\bin\Debug\Day13_AbstractClasses.pdb
+C:\Users\burha\Desktop\Burhan\HackerRank\30DaysOfCode\Day13_AbstractClasses\obj\Debug\Day13_AbstractClasses.csprojAssemblyReference.cache
+C:\Users\burha\Desktop\Burhan\HackerRank\30DaysOfCode\Day13_AbstractClasses\obj\Debug\Day13_AbstractClasses.csproj.CoreCompileInputs.cache
+C:\Users\burha\Desktop\Burhan\HackerRank\30DaysOfCode\Day13_AbstractClasses\obj\Debug\Day13_AbstractClasses.exe
+C:\Users\burha\Desktop\Burhan\HackerRank\30DaysOfCode\Day13_AbstractClasses\obj\Debug\Day13_AbstractClasses.pdb
