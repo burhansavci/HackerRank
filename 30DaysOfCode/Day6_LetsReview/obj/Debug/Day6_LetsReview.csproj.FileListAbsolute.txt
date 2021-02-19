@@ -12,3 +12,10 @@ C:\Users\burha\Desktop\Burhan\HackerRank\30DaysOfCode\Day6_LetsReview\obj\Debug\
 C:\Users\burha\Desktop\Burhan\HackerRank\30DaysOfCode\Day6_LetsReview\obj\Debug\Day6_LetsReview.csproj.CoreCompileInputs.cache
 C:\Users\burha\Desktop\Burhan\HackerRank\30DaysOfCode\Day6_LetsReview\obj\Debug\Day6_LetsReview.exe
 C:\Users\burha\Desktop\Burhan\HackerRank\30DaysOfCode\Day6_LetsReview\obj\Debug\Day6_LetsReview.pdb
+C:\Users\burha\Desktop\HackerRank\30DaysOfCode\Day6_LetsReview\bin\Debug\Day6_LetsReview.exe.config
+C:\Users\burha\Desktop\HackerRank\30DaysOfCode\Day6_LetsReview\bin\Debug\Day6_LetsReview.exe
+C:\Users\burha\Desktop\HackerRank\30DaysOfCode\Day6_LetsReview\bin\Debug\Day6_LetsReview.pdb
+C:\Users\burha\Desktop\HackerRank\30DaysOfCode\Day6_LetsReview\obj\Debug\Day6_LetsReview.csprojAssemblyReference.cache
+C:\Users\burha\Desktop\HackerRank\30DaysOfCode\Day6_LetsReview\obj\Debug\Day6_LetsReview.csproj.CoreCompileInputs.cache
+C:\Users\burha\Desktop\HackerRank\30DaysOfCode\Day6_LetsReview\obj\Debug\Day6_LetsReview.exe
+C:\Users\burha\Desktop\HackerRank\30DaysOfCode\Day6_LetsReview\obj\Debug\Day6_LetsReview.pdb

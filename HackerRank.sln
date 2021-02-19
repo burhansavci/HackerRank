@@ -20,7 +20,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day7_Arrays", "30DaysOfCode
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day8_DictionariesAndMaps", "30DaysOfCode\Day8_DictionariesAndMaps\Day8_DictionariesAndMaps.csproj", "{006A1CD9-6354-4B61-832D-30C1540F85AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day9_Recursion3", "30DaysOfCode\Day9_Recursion3\Day9_Recursion3.csproj", "{46451B98-7224-4523-A9FE-E325FC74AC7A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day9_Recursion", "30DaysOfCode\Day9_Recursion\Day9_Recursion.csproj", "{46451B98-7224-4523-A9FE-E325FC74AC7A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day10_BinaryNumbers", "30DaysOfCode\Day10_BinaryNumbers\Day10_BinaryNumbers.csproj", "{61256154-5ADE-4043-A59A-74108937CE08}"
 EndProject

@@ -12,3 +12,10 @@ C:\Users\burha\Desktop\Burhan\HackerRank\30DaysOfCode\Day24_More_Linked_List\obj
 C:\Users\burha\Desktop\Burhan\HackerRank\30DaysOfCode\Day24_More_Linked_List\obj\Debug\Day24_More_Linked_List.csproj.CoreCompileInputs.cache
 C:\Users\burha\Desktop\Burhan\HackerRank\30DaysOfCode\Day24_More_Linked_List\obj\Debug\Day24_More_Linked_List.exe
 C:\Users\burha\Desktop\Burhan\HackerRank\30DaysOfCode\Day24_More_Linked_List\obj\Debug\Day24_More_Linked_List.pdb
+C:\Users\burha\Desktop\HackerRank\30DaysOfCode\Day24_More_Linked_List\bin\Debug\Day24_More_Linked_List.exe.config
+C:\Users\burha\Desktop\HackerRank\30DaysOfCode\Day24_More_Linked_List\bin\Debug\Day24_More_Linked_List.exe
+C:\Users\burha\Desktop\HackerRank\30DaysOfCode\Day24_More_Linked_List\bin\Debug\Day24_More_Linked_List.pdb
+C:\Users\burha\Desktop\HackerRank\30DaysOfCode\Day24_More_Linked_List\obj\Debug\Day24_More_Linked_List.csprojAssemblyReference.cache
+C:\Users\burha\Desktop\HackerRank\30DaysOfCode\Day24_More_Linked_List\obj\Debug\Day24_More_Linked_List.csproj.CoreCompileInputs.cache
+C:\Users\burha\Desktop\HackerRank\30DaysOfCode\Day24_More_Linked_List\obj\Debug\Day24_More_Linked_List.exe
+C:\Users\burha\Desktop\HackerRank\30DaysOfCode\Day24_More_Linked_List\obj\Debug\Day24_More_Linked_List.pdb

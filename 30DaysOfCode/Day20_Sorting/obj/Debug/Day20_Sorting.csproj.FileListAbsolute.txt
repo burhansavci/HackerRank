@@ -12,3 +12,10 @@ C:\Users\burha\Desktop\Burhan\HackerRank\30DaysOfCode\Day20_Sorting\obj\Debug\Da
 C:\Users\burha\Desktop\Burhan\HackerRank\30DaysOfCode\Day20_Sorting\obj\Debug\Day20_Sorting.csproj.CoreCompileInputs.cache
 C:\Users\burha\Desktop\Burhan\HackerRank\30DaysOfCode\Day20_Sorting\obj\Debug\Day20_Sorting.exe
 C:\Users\burha\Desktop\Burhan\HackerRank\30DaysOfCode\Day20_Sorting\obj\Debug\Day20_Sorting.pdb
+C:\Users\burha\Desktop\HackerRank\30DaysOfCode\Day20_Sorting\bin\Debug\Day20_Sorting.exe.config
+C:\Users\burha\Desktop\HackerRank\30DaysOfCode\Day20_Sorting\bin\Debug\Day20_Sorting.exe
+C:\Users\burha\Desktop\HackerRank\30DaysOfCode\Day20_Sorting\bin\Debug\Day20_Sorting.pdb
+C:\Users\burha\Desktop\HackerRank\30DaysOfCode\Day20_Sorting\obj\Debug\Day20_Sorting.csprojAssemblyReference.cache
+C:\Users\burha\Desktop\HackerRank\30DaysOfCode\Day20_Sorting\obj\Debug\Day20_Sorting.csproj.CoreCompileInputs.cache
+C:\Users\burha\Desktop\HackerRank\30DaysOfCode\Day20_Sorting\obj\Debug\Day20_Sorting.exe
+C:\Users\burha\Desktop\HackerRank\30DaysOfCode\Day20_Sorting\obj\Debug\Day20_Sorting.pdb

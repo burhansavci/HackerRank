@@ -10,3 +10,9 @@ C:\Users\burha\Desktop\Burhan\HackerRank\30DaysOfCode\Day29_ Bitwise_AND\bin\Deb
 C:\Users\burha\Desktop\Burhan\HackerRank\30DaysOfCode\Day29_ Bitwise_AND\obj\Debug\Day29_ Bitwise_AND.csproj.CoreCompileInputs.cache
 C:\Users\burha\Desktop\Burhan\HackerRank\30DaysOfCode\Day29_ Bitwise_AND\obj\Debug\Day29_ Bitwise_AND.exe
 C:\Users\burha\Desktop\Burhan\HackerRank\30DaysOfCode\Day29_ Bitwise_AND\obj\Debug\Day29_ Bitwise_AND.pdb
+C:\Users\burha\Desktop\HackerRank\30DaysOfCode\Day29_ Bitwise_AND\bin\Debug\Day29_ Bitwise_AND.exe.config
+C:\Users\burha\Desktop\HackerRank\30DaysOfCode\Day29_ Bitwise_AND\bin\Debug\Day29_ Bitwise_AND.exe
+C:\Users\burha\Desktop\HackerRank\30DaysOfCode\Day29_ Bitwise_AND\bin\Debug\Day29_ Bitwise_AND.pdb
+C:\Users\burha\Desktop\HackerRank\30DaysOfCode\Day29_ Bitwise_AND\obj\Debug\Day29_ Bitwise_AND.csproj.CoreCompileInputs.cache
+C:\Users\burha\Desktop\HackerRank\30DaysOfCode\Day29_ Bitwise_AND\obj\Debug\Day29_ Bitwise_AND.exe
+C:\Users\burha\Desktop\HackerRank\30DaysOfCode\Day29_ Bitwise_AND\obj\Debug\Day29_ Bitwise_AND.pdb

@@ -12,3 +12,10 @@ C:\Users\burha\Desktop\Burhan\HackerRank\30DaysOfCode\Day8_DictionariesAndMaps\o
 C:\Users\burha\Desktop\Burhan\HackerRank\30DaysOfCode\Day8_DictionariesAndMaps\obj\Debug\Day8_DictionariesAndMaps.csproj.CoreCompileInputs.cache
 C:\Users\burha\Desktop\Burhan\HackerRank\30DaysOfCode\Day8_DictionariesAndMaps\obj\Debug\Day8_DictionariesAndMaps.exe
 C:\Users\burha\Desktop\Burhan\HackerRank\30DaysOfCode\Day8_DictionariesAndMaps\obj\Debug\Day8_DictionariesAndMaps.pdb
+C:\Users\burha\Desktop\HackerRank\30DaysOfCode\Day8_DictionariesAndMaps\bin\Debug\Day8_DictionariesAndMaps.exe.config
+C:\Users\burha\Desktop\HackerRank\30DaysOfCode\Day8_DictionariesAndMaps\bin\Debug\Day8_DictionariesAndMaps.exe
+C:\Users\burha\Desktop\HackerRank\30DaysOfCode\Day8_DictionariesAndMaps\bin\Debug\Day8_DictionariesAndMaps.pdb
+C:\Users\burha\Desktop\HackerRank\30DaysOfCode\Day8_DictionariesAndMaps\obj\Debug\Day8_DictionariesAndMaps.csprojAssemblyReference.cache
+C:\Users\burha\Desktop\HackerRank\30DaysOfCode\Day8_DictionariesAndMaps\obj\Debug\Day8_DictionariesAndMaps.csproj.CoreCompileInputs.cache
+C:\Users\burha\Desktop\HackerRank\30DaysOfCode\Day8_DictionariesAndMaps\obj\Debug\Day8_DictionariesAndMaps.exe
+C:\Users\burha\Desktop\HackerRank\30DaysOfCode\Day8_DictionariesAndMaps\obj\Debug\Day8_DictionariesAndMaps.pdb

@@ -12,3 +12,10 @@ C:\Users\burha\Desktop\Burhan\HackerRank\30DaysOfCode\Day23_BTS_Level_Order_Trav
 C:\Users\burha\Desktop\Burhan\HackerRank\30DaysOfCode\Day23_BTS_Level_Order_Traversal\obj\Debug\Day23_BTS_Level_Order_Traversal.csproj.CoreCompileInputs.cache
 C:\Users\burha\Desktop\Burhan\HackerRank\30DaysOfCode\Day23_BTS_Level_Order_Traversal\obj\Debug\Day23_BTS_Level_Order_Traversal.exe
 C:\Users\burha\Desktop\Burhan\HackerRank\30DaysOfCode\Day23_BTS_Level_Order_Traversal\obj\Debug\Day23_BTS_Level_Order_Traversal.pdb
+C:\Users\burha\Desktop\HackerRank\30DaysOfCode\Day23_BTS_Level_Order_Traversal\bin\Debug\Day23_BTS_Level_Order_Traversal.exe.config
+C:\Users\burha\Desktop\HackerRank\30DaysOfCode\Day23_BTS_Level_Order_Traversal\bin\Debug\Day23_BTS_Level_Order_Traversal.exe
+C:\Users\burha\Desktop\HackerRank\30DaysOfCode\Day23_BTS_Level_Order_Traversal\bin\Debug\Day23_BTS_Level_Order_Traversal.pdb
+C:\Users\burha\Desktop\HackerRank\30DaysOfCode\Day23_BTS_Level_Order_Traversal\obj\Debug\Day23_BTS_Level_Order_Traversal.csprojAssemblyReference.cache
+C:\Users\burha\Desktop\HackerRank\30DaysOfCode\Day23_BTS_Level_Order_Traversal\obj\Debug\Day23_BTS_Level_Order_Traversal.csproj.CoreCompileInputs.cache
+C:\Users\burha\Desktop\HackerRank\30DaysOfCode\Day23_BTS_Level_Order_Traversal\obj\Debug\Day23_BTS_Level_Order_Traversal.exe
+C:\Users\burha\Desktop\HackerRank\30DaysOfCode\Day23_BTS_Level_Order_Traversal\obj\Debug\Day23_BTS_Level_Order_Traversal.pdb
