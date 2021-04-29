@@ -194,6 +194,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlternatingCharacters", "Ea
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IceCreamParlor", "Medium Questions\IceCreamParlor\IceCreamParlor.csproj", "{D04435D9-E883-4EF0-BBA0-63FDB0D987B8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountTriplets", "Medium Questions\CountTriplets\CountTriplets.csproj", "{56655A78-5DCA-4537-AB5C-FBFAA56F0239}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -294,6 +296,7 @@ Global
 		{FC405BC9-B338-4291-913F-5B57C7F3B3BA} = {15A7D030-B097-42B2-824A-D7AF23775636}
 		{DC6B72B1-490D-471E-B899-85161FE6BD5B} = {15A7D030-B097-42B2-824A-D7AF23775636}
 		{D04435D9-E883-4EF0-BBA0-63FDB0D987B8} = {0327A809-B147-4F84-8E90-89234246A02B}
+		{56655A78-5DCA-4537-AB5C-FBFAA56F0239} = {0327A809-B147-4F84-8E90-89234246A02B}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{B0329A04-22FA-4725-946E-680A0B23644B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -672,5 +675,9 @@ Global
 		{D04435D9-E883-4EF0-BBA0-63FDB0D987B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D04435D9-E883-4EF0-BBA0-63FDB0D987B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D04435D9-E883-4EF0-BBA0-63FDB0D987B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56655A78-5DCA-4537-AB5C-FBFAA56F0239}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56655A78-5DCA-4537-AB5C-FBFAA56F0239}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56655A78-5DCA-4537-AB5C-FBFAA56F0239}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56655A78-5DCA-4537-AB5C-FBFAA56F0239}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
