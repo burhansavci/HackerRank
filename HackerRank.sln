@@ -200,6 +200,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecialStringAgain", "Mediu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeautifulBinaryString", "Easy Questions\BeautifulBinaryString\BeautifulBinaryString.csproj", "{67B8386E-042D-4B64-9A1E-99233345AE9D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarsExploration", "Easy Questions\MarsExploration\MarsExploration.csproj", "{3C5C128D-014F-4D7E-BA36-0392956D67C4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -303,6 +305,7 @@ Global
 		{56655A78-5DCA-4537-AB5C-FBFAA56F0239} = {0327A809-B147-4F84-8E90-89234246A02B}
 		{0C1043E3-931B-43FA-9108-9EE06293267B} = {0327A809-B147-4F84-8E90-89234246A02B}
 		{67B8386E-042D-4B64-9A1E-99233345AE9D} = {15A7D030-B097-42B2-824A-D7AF23775636}
+		{3C5C128D-014F-4D7E-BA36-0392956D67C4} = {15A7D030-B097-42B2-824A-D7AF23775636}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{B0329A04-22FA-4725-946E-680A0B23644B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -693,5 +696,9 @@ Global
 		{67B8386E-042D-4B64-9A1E-99233345AE9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{67B8386E-042D-4B64-9A1E-99233345AE9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{67B8386E-042D-4B64-9A1E-99233345AE9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C5C128D-014F-4D7E-BA36-0392956D67C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C5C128D-014F-4D7E-BA36-0392956D67C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C5C128D-014F-4D7E-BA36-0392956D67C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C5C128D-014F-4D7E-BA36-0392956D67C4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
