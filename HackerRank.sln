@@ -208,6 +208,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeightedUniformStrings", "E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeparateTheNumbers", "Easy Questions\SeparateTheNumbers\SeparateTheNumbers.csproj", "{5E0D5534-89DA-4323-9550-7F94D138A468}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThePowerSum", "Medium Questions\ThePowerSum\ThePowerSum.csproj", "{1B0090BC-5788-4EB5-B464-DB8EE277769C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -315,6 +317,7 @@ Global
 		{3D754548-3321-40B5-B9FD-FE6EA704B8A8} = {15A7D030-B097-42B2-824A-D7AF23775636}
 		{DF50853A-875C-4227-A474-A0727898F474} = {15A7D030-B097-42B2-824A-D7AF23775636}
 		{5E0D5534-89DA-4323-9550-7F94D138A468} = {15A7D030-B097-42B2-824A-D7AF23775636}
+		{1B0090BC-5788-4EB5-B464-DB8EE277769C} = {0327A809-B147-4F84-8E90-89234246A02B}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{B0329A04-22FA-4725-946E-680A0B23644B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -721,5 +724,9 @@ Global
 		{5E0D5534-89DA-4323-9550-7F94D138A468}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5E0D5534-89DA-4323-9550-7F94D138A468}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5E0D5534-89DA-4323-9550-7F94D138A468}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B0090BC-5788-4EB5-B464-DB8EE277769C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B0090BC-5788-4EB5-B464-DB8EE277769C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B0090BC-5788-4EB5-B464-DB8EE277769C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B0090BC-5788-4EB5-B464-DB8EE277769C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
